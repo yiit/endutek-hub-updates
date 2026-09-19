@@ -1,1 +1,1 @@
-{"version":"2026.09.19.1","setup_url":"https://github.com/yiit/endutek-hub-updates/releases/download/v2026.09.19.1/Endutek-Hub-Setup-2026.09.19.1.exe","notlar":"WiFi ayarini silme butonu eklendi (seri panel): SSID/parola temizler, kart AP moduna duser","zorunlu":false}
+{"version":"2026.09.19.2","setup_url":"https://github.com/yiit/endutek-hub-updates/releases/download/guncel/Endutek-Hub-Setup.exe","notlar":"Tek guncelleme kanali (guncel etiketi); guncelleme kontrolu sayfa acilisinda taze + Denetle linki; WiFi silme butonu; DNS + eksik parametre bildirimi","zorunlu":false}
