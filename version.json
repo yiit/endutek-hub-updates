@@ -1,1 +1,1 @@
-{"version":"2026.09.19.4","setup_url":"https://github.com/yiit/endutek-hub-updates/releases/download/guncel/Endutek-Hub-Setup.exe","notlar":"WiFi silme 'WiFi Kurulumu' sihirbazina tasindi (tek yer); Seri sayfasi 'Seri Konsol (gelismis)'; sag-alt surum gostergesi","zorunlu":false}
+{"version":"2026.09.19.6","setup_url":"https://github.com/yiit/endutek-hub-updates/releases/download/guncel/Endutek-Hub-Setup.exe","notlar":"Statik IP on-doldurma + IP format uyarisi; STA MAC on panelde; Otomatik varsayilan yukle bug fix; Bayi>Musteri hiyerarsisi (cihaz tasima)","zorunlu":false}
