@@ -1,1 +1,1 @@
-{"version":"2026.10.15","setup_url":"https://github.com/yiit/endutek-hub-updates/releases/download/guncel/Endutek-Hub-Setup.exe","notlar":"USB ile tam yedek/geri yukleme (agsiz), web ile ayni yedek bicimi, secimli fis/etiket tasarim yukleme, birebir klon","zorunlu":false}
+{"version":"2026.10.19","setup_url":"https://github.com/yiit/endutek-hub-updates/releases/download/guncel/Endutek-Hub-Setup.exe","notlar":"Terazi sayfasinda Negatif yazdir (net 0/eksi iken tusla baski); USB tam yedek/geri yukleme, secimli tasarim yukleme","zorunlu":false}
